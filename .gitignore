@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+packages/
+*.nupkg
+
+# Visual Studio upgrade files
+_UpgradeReport_Files/
+UpgradeLog*
+
+# Historical backups
+Backup/
+Backup1/
+Backup2/
+Archivos de copia de seguridad de Crystal Reports/
+
+# VB.NET source files left from the VB-to-C# conversion
+*.vb
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
